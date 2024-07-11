@@ -1,4 +1,4 @@
-### Hello Firends! I'm winetree94.
+### Hello friends! I'm winetree94.
 
 I'm a front-end developer from South Korea.
 <br>
